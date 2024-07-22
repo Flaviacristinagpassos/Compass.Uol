@@ -8,7 +8,7 @@ Repositório destinado para o programa de bolsas da Compass.Uol - AWS Engineer
 /></a> 
 
 Moro em Rio Grande-RS, atualmemte no 5 semestre do curso de Sistemas de Informação, na Universidade Federal do Rio Grande (FURG).
-Possuo alguns projetos, como sites funcionais com html, css, js, com hospedagens pelo vercel e github, projetos de jogos simples em python com graphics, jogo 2d com godot, e atualmente um projeto pessoal que também será meu tcc, um software para gernciamento de academias, em dart, com uma api em python, será o meu primeiro projeto destinado a mobile e web. Também projeto em shell com o objetivo de criar um script de Criação de Estrutura de Usuários, Diretórios e Permissões.
+Possuo alguns projetos, como sites funcionais com html, css, js, com hospedagens pelo vercel e github, projetos de jogos simples em python com graphics, jogo 2d com godot, e atualmente um projeto pessoal que também será meu tcc, um software para gernciamento de academias, em dart, com uma api em python, será o meu primeiro projeto destinado a mobile e web. Também projeto em shell com o objetivo de criar um script de Criação de Estrutura de Usuários, Diretórios e Permissões. E possuo um projeto em andamento usando a ferramenta Jira.
 
 # Ide's mais usadas
 

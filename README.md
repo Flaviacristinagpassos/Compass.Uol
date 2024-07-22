@@ -27,7 +27,7 @@ Possuo alguns projetos, como sites funcionais com html, css, js, com hospedagens
 [Sprint 1](./Sprint_1)
 Ao decorrer dessa Sprint aprendi sobre comandos Linux e versionamento de código com Git.
 O arquivo da pasta `ecommerce` pode ser baixado do seguinte link: [ecommerce.tar.gz](https://drive.google.com/file/d/1OdyGCPSjkFFi9MBwTKI_wNY0O3QQyb04/view?usp=sharing)
-
+Usei esse caminho alternativo pelo google drive pois tive problemas com meu GitHubGist
 
 ## Sprint 2
 [Sprint 2](./Sprint_2)

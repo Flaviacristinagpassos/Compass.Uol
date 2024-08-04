@@ -1,0 +1,1 @@
+## Na Sprint 2 pudemos ver SGBD

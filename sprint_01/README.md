@@ -54,3 +54,55 @@
 11. **Compactação e descompactação de arquivos e diretórios**
     - Compactando com tar, em zip
     - Descompactando em zip
+
+## Git e GitHub
+
+1. **Git Fundamental**
+   - O que é e criando um repositório
+   - O que é GitHub e enviando repositórios
+   - Adicionar arquivos ao proejto
+  
+2. **Trabalhando com Branches**
+   - O que são?
+   - Criar, vizualizar, deletar, unir e mudar de branch
+   - Utilizar, recuperar e remover a stash
+   - Criar, alterar e enviar tags
+  
+3. **Compartilhamento e atualização de repositórios**
+   - Encontrar Branches
+   - Receber atualização
+   - Enviar alteração
+   - Utilizar o remote
+   - Conhecendo e atualizando os submodules
+
+4. **Análise e inspeção de repositórios**
+   - Exibir detalhes de branches e tags
+   - Verificação de diferenças
+   - Log de atividade
+
+5. **Administração de repositórios**
+   - Limpar arquivos untracked
+   - Otimizar repo
+   - Verificar integridade dos arquivos
+   - Reflog
+   - Comprimir repo
+
+6. **Importância dos commits**
+   - Técnica de private branch
+
+7. **Entendendo o GitHub**
+   - Criar repo
+   - Verificar código-fonte e licenças
+   - Criar e verificar issues
+   - Atualizar projeto por pull request
+   - Processos de CI/CD
+   - Criar Wiki e projetos no GitHub
+   - Vizualizar dados do projeto
+   - Criar gists
+
+8. **MarkDown**
+   - Criar títulos e dar ênfase em textos
+   - Listas e links em markdown
+   - Inserindo imagens e código-fonte
+   - Lista de tarefas do projeto
+

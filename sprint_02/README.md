@@ -1,15 +1,13 @@
 ## Na Sprint 2 pudemos aprender e trabalhar com SGBD
 
 ## Conceitos de Data Analytics I
-
-# Data&Analytics**
 	- Conceitos de BIg Data e os 5 V's
 
 **Diferença entre papeis envolvidos em Big Data**
 	- Cientista de Dados 
-    - Arquiteto de Soluções para Dados
-    - Engenheiro de Dados
-    - Desenvolvedores
+ 	- Arquiteto de Soluções para Dados
+  	- Engenheiro de Dados
+   	- Desenvolvedores
 
 **Tipos de Dados**
     - Literal

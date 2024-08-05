@@ -1,13 +1,12 @@
 ## Na Sprint 2 pudemos aprender e trabalhar com SGBD
 
-## Conceitos de Data Analytics I
-	- Conceitos de BIg Data e os 5 V's
+# Conceitos de Data Analytics I
 
 **Diferença entre papeis envolvidos em Big Data**
-	- Cientista de Dados 
- 	- Arquiteto de Soluções para Dados
-  	- Engenheiro de Dados
-   	- Desenvolvedores
+- Cientista de Dados 
+- Arquiteto de Soluções para Dados
+- Engenheiro de Dados
+- Desenvolvedores
 
 **Tipos de Dados**
     - Literal
@@ -36,12 +35,11 @@
     - É dividida em três camadas: Batch layer, Speed layer e Serving layer
 
 
+# Conceitos de Data Analytics II
 
-## Conceitos de Data Analytics II
-
-# Técnicas para processamento de Dados(Batch e Stream)
-    - O Batch é um processamento em lote, é o processamento de diversas transações que ocorreram num sistema de origem e serão processadas para outros sistemas em conjunto ou em bloco. O Hadoop MapReduce é um dos melhores frameworks para processar dados em lotes.
-    - O stream é um processamento que trabalha com fluxos de dados que são capturados em tempo real e processados com latência mínima para o sistema de destino. Neste processamento uma ou um pequeno conjunto de transações é processada e enviada ao sistema de destino.
+## Técnicas para processamento de Dados(Batch e Stream)
+- O Batch é um processamento em lote, é o processamento de diversas transações que ocorreram num sistema de origem e serão processadas para outros sistemas em conjunto ou em bloco. O Hadoop MapReduce é um dos melhores frameworks para processar dados em lotes.
+- O stream é um processamento que trabalha com fluxos de dados que são capturados em tempo real e processados com latência mínima para o sistema de destino. Neste processamento uma ou um pequeno conjunto de transações é processada e enviada ao sistema de destino.
 
 1. **Business Intelligence (BI)**
     - Inteligência de negócios, é um conjunto de teorias, metodologias, práticas, processos, tecnologias e estruturas para desenvolver uma inteligência ao negócio.
@@ -91,16 +89,17 @@ intuitivo para os utilizadores.
     - Uma CLI não é uma nova linguagem de consulta, é, simplesmente, uma interface procedural para SQL. As aplicações usam CLI para submeter statements SQL para um sistema gerenciador de base de dados (DBMS).
     - Uma CLI requer um driver para cada base de dados para qual ela se conecta. Cada driver deve ser escrito para uma tecnologia específica, usando os métodos de acesso existentes para bases de dados. A CLI provê um driver manager que fala com um driver através de uma SPI (Service Provider Interface).
 
-## Modelagem de Dados
-# Modelagem Relacional
-    - Uma idéia de que não é relevante ao usuário saber onde os dados estão ou como se encontram, é representada por uma coleção de tabelas, um conjunto de tuplas.
 
-# Modelagem Dimensional
-    - O modo é favorecer o consumo por meio de ferramentas analíticas, OLAP, Online Analytical Processing. É a capacidade para manipular e analisar um grande volume de dados sob múltiplas perpectivas -cubos.
+# Modelagem de Dados
+## Modelagem Relacional
+- Uma idéia de que não é relevante ao usuário saber onde os dados estão ou como se encontram, é representada por uma coleção de tabelas, um conjunto de tuplas.
 
-## AWS Builder
-# AWS Partner
-    - Nesta 'builder' da amazon pudemos ter acesso ao curso de 'Sales Accreditation (Business)', onde estudamos sobre os seguintes tópicos:
+## Modelagem Dimensional
+- O modo é favorecer o consumo por meio de ferramentas analíticas, OLAP, Online Analytical Processing. É a capacidade para manipular e analisar um grande volume de dados sob múltiplas perpectivas -cubos.
+
+# AWS Builder
+## AWS Partner
+- Nesta 'builder' da amazon pudemos ter acesso ao curso de 'Sales Accreditation (Business)', onde estudamos sobre os seguintes tópicos:
 
 1. **Conceitos de nuvem e serviços da AWS**
     - Computação em nuvem

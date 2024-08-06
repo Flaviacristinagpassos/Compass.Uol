@@ -1,0 +1,2 @@
+O desafio é normalizar uma base de dados, aplicar as formas normais e depois converter o modelo relacional em modelo dimensional. 
+ Nas evidencias esta apenas a tabela

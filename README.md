@@ -31,6 +31,7 @@ Usei esse caminho alternativo pelo google drive pois tive problemas com meu GitH
 
 ## Sprint 2
 [Sprint 2](./Sprint_2)
+Ao decorrer dessa sprint aprendi conceitos no dia-a-dia de um Data Analytics e uma grande imersão em Modelagem de dados, relacional e dimensional.
 
 ## Sprint 3
 [Sprint 3](./Sprint_3)

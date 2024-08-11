@@ -1,4 +1,5 @@
-## Na Sprint 2 pudemos aprender e trabalhar com SGBD
+## Na Sprint 2 pudemos aprender e trabalhar com SGBD <img align="center" width=50 height=60  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <img align="center" width=50 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" /> <img align="center" width=50 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+          
 
 # Conceitos de Data Analytics I
 
@@ -90,14 +91,16 @@ intuitivo para os utilizadores.
     - Uma CLI requer um driver para cada base de dados para qual ela se conecta. Cada driver deve ser escrito para uma tecnologia específica, usando os métodos de acesso existentes para bases de dados. A CLI provê um driver manager que fala com um driver através de uma SPI (Service Provider Interface).
 
 
-# Modelagem de Dados
+# Modelagem de Dados <img align="center" width=50 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
+          
 ## Modelagem Relacional
 - Uma idéia de que não é relevante ao usuário saber onde os dados estão ou como se encontram, é representada por uma coleção de tabelas, um conjunto de tuplas.
 
 ## Modelagem Dimensional
 - O modo é favorecer o consumo por meio de ferramentas analíticas, OLAP, Online Analytical Processing. É a capacidade para manipular e analisar um grande volume de dados sob múltiplas perpectivas -cubos.
 
-# AWS Builder
+# AWS Builder <img align="center" width=50 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+          
 ## AWS Partner
 - Nesta 'builder' da amazon pudemos ter acesso ao curso de 'Sales Accreditation (Business)', onde estudamos sobre os seguintes tópicos:
 

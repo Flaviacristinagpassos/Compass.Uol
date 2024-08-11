@@ -85,3 +85,5 @@
 
 12. **Isolamento de Ambiente**
     - Venv
+   
+

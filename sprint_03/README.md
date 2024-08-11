@@ -87,7 +87,7 @@
     - Venv
 
 # AWS Builder
-## AWS Partner
+## AWS Partner: Economias na Nuvem
 - Nesta 'skill builder' da amazon pudemos ter acesso ao curso de 'Economias na Nuvem', onde estudamos sobre os seguintes tópicos:
 
 1. **Aspectos econômicos na nuvem**

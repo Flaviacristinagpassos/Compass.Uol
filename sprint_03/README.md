@@ -1,4 +1,5 @@
-## Na Sprint 3 pude conhecer sobre a linguagem python, principais características da linguagem e sua sintaxe
+## Na Sprint 3 pude conhecer sobre a linguagem python, principais características da linguagem e sua sintaxe <img align="center" width=40 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 
 # Python do básico ao avançado
 
@@ -86,7 +87,7 @@
 12. **Isolamento de Ambiente**
     - Venv
 
-# AWS Builder
+# AWS Builder <img align="center" width=50 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 ## AWS Partner: Economias na Nuvem
 - Nesta 'skill builder' da amazon pudemos ter acesso ao curso de 'Economias na Nuvem', onde estudamos sobre os seguintes tópicos:
 

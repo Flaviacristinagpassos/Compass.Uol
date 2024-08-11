@@ -85,5 +85,62 @@
 
 12. **Isolamento de Ambiente**
     - Venv
-   
 
+# AWS Builder
+## AWS Partner
+- Nesta 'skill builder' da amazon pudemos ter acesso ao curso de 'Economias na Nuvem', onde estudamos sobre os seguintes tópicos:
+
+1. **Aspectos econômicos na nuvem**
+    - Foco dos aspectos econômicos na nuvem
+    - Cloud Value Framework
+
+2. **Redução de custos**
+    - Por que a redução de custos é importante
+    - Redução de custos com a AWS
+    - Práticas recomendadas
+
+3. **Produtividade da equipe**
+    - Quantificação do impacto da AWS
+    - Exemplos de clientes
+        -  Processo de criação de contas AWS 100% automatizado
+        -  Aumento de 4.715% na velocidade de criação de uma conta AWS
+        -  O prazo para colocar uma aplicação disponível na AWS caiu de 11 dias para 3 horas
+        -  O percentual de falhas caiu de 95% para cerca de 5%
+        -  Desativação de 25% dos servidores no ambiente PCI
+        -  Redução de 40% dos incidentes de monitoração no ambiente migrado
+  
+4. **Resiliência operacional**
+   - Quatro áreas principais da resiliência operacional
+   - Benefícios da resiliência operacional melhorada
+   - Causas e impactos do tempo de inatividade
+   - Como a AWS minimiza as falhas operacionais
+   - Exemplos de clientes
+       - Reduziu sua indisponibilidade de 2 horas semanais para 2 horas ao ano
+       - Disponibilidade de 99,97% alcançada em função da disponibilidade dos serviços da AWS
+       - Ganho operacional na disponibilidade de ambiente de 85% para 94% (98% para dias úteis)
+  
+5. **Agilidade empresarial**
+    - Principais indicadores de desempenho para medir a agilidade empresarial
+    - Como a maior agilidade empresarial permite a inovação e reduz os riscos e os custos
+    - Exemplos de clientes
+        - Agilidade na entrega de atualizações (150 por semana)
+        - Redução de tempo de execução de queries de mais de 48 horas para 3 horas (Aumento de Agilidade em 96%) e outros processos on-premises de 3 horas para 15 minutos (Aumento de Agilidade em 92%)
+        - Maior agilidade na criação de novos ambientes
+        - Processamento 50% mais rápido com maior volume de informações e regras mais complexas
+
+6. **Sustentabilidade**
+    - Compromisso e investimentos da Amazon para a sustentabilidade
+    - Como os clientes podem reduzir sua pegada de carbono
+    - Principais áreas para otimizar recursos da AWS
+    
+7. **Gerenciamento financeiro na nuvem**
+    - Medição e responsabilidade
+    - Otimização de custos
+    - Planejamento e forecast
+    - Operações financeiras na nuvem
+    
+8. **Avaliação do portfólio da migração (MPA)**
+    - Propósito da avaliação do portfólio da migração
+    - Como acessar a ferramenta MPA
+  
+   

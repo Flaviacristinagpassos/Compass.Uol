@@ -1,6 +1,5 @@
 # Compass.Uol
-Repositório destinado para o programa de bolsas da Compass.Uol - AWS Engineer
-
+Repositório destinado para o programa de bolsas da Compass.Uol - <img align="center" width=40 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> Engineer 
 
 
 # Apresentação

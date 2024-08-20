@@ -145,3 +145,7 @@
     - Como acessar a ferramenta MPA
   
    
+
+O README da sprint é uma breve informação sobre tudo que foi feito na sprint, como certificados tirados, prints de execuções (evidências), exercícios, entre outras coisas relacionadas a sprint.
+
+Repositório: Acrescentar no README da sprint as informações de certificados, exercícios e evidências, conforme padrão.

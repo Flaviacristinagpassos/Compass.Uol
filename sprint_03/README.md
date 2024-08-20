@@ -144,8 +144,8 @@
     - Propósito da avaliação do portfólio da migração
     - Como acessar a ferramenta MPA
   
-   
+# Certificados
+Nessa Sprint-03 pude tirar o certificado da AWS-Economias da Nuvem, Data&Analytics 3/10 e o o curso Python do básico ao avançado
 
-O README da sprint é uma breve informação sobre tudo que foi feito na sprint, como certificados tirados, prints de execuções (evidências), exercícios, entre outras coisas relacionadas a sprint.
-
-Repositório: Acrescentar no README da sprint as informações de certificados, exercícios e evidências, conforme padrão.
+# Evidências   
+Na pasta 'evidência' estão presentes os prints do codigo do desafio e separado numa pasta 'gráficos' os que possuem gráficos gerados

@@ -228,6 +228,8 @@ A análise e visualização dos dados fornecem uma visão abrangente sobre as ca
 
 Esses insights podem ser úteis para tomar decisões mais informadas sobre tendências e padrões no mercado de aplicativos.
 
+Obs:. O Arquivo .ipynb encontra-se na pasta 'etapa-3'
+
 
 
 

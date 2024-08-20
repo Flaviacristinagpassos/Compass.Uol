@@ -1,0 +1,1 @@
+nesta pasta estao as evidencias sobre a execução do desafio, nas fotos aparecem erro de biblioteca mas é apenas do meu vscode mesmo, pois os codigos rodaram mesmo assim

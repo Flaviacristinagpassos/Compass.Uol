@@ -34,9 +34,11 @@ Ao decorrer dessa sprint aprendi conceitos no dia-a-dia de um Data Analytics e u
 
 ## Sprint 3
 [Sprint 3](./Sprint_3)
+Ao decorrer desta sprint aprendi sobre a linguagem de programação Python, tive acesso ao curso de AWS Partner: Economias na Nuvem, e também práticas de análise de Dados e Visualização no desafio da sprint, a análise envolveu a criação de diversos gráficos para visualizar e entender melhor os dados.
 
 ## Sprint 4
 [Sprint 4](./Sprint_4)
+Ao decorrer desta sprint consegui aprender sobre o Docker Swarm e Kubernetes, e orquestração de contêineres. Também aprendi sobre Estatística Descritiva com Python e tive acesso ao curso de AWS Partner: Credenciamento Técnico.
 
 ## Sprint 5
 [Sprint 5](./Sprint_5)

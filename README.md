@@ -42,6 +42,7 @@ Ao decorrer desta sprint consegui aprender sobre o Docker Swarm e Kubernetes, e 
 
 ## Sprint 5
 [Sprint 5](./Sprint_5)
+Ao decorrer desta sprint tive o primeiro contato prático com a nuvem AWS, aprendi sobre os fundamentos de Computação em Nuvem utilizando a AWS como nosso ambiente de trabalho. Com exercícios super didáticos e intuitivos da nuvem.
 
 ## Sprint 6
 [Sprint 6](./Sprint_6)

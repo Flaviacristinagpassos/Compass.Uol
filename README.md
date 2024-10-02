@@ -46,6 +46,7 @@ Ao decorrer desta sprint tive o primeiro contato prático com a nuvem AWS, apren
 
 ## Sprint 6
 [Sprint 6](./Sprint_6)
+Ao decorrer desta Sprint, com ajuda do desafio proposto, que visa praticar tudo o que visto nas sprints anteriores, que tem como objetivo a construção de um Data Lake que armazene e processe dados de um arquivo que nos foi dado de filmes e series. Com o objetivo de desenvolver entregas em etapas separadas em, Ingestão de Dados da API do TMDB, Processamento de Dados, Modelo de Dados Dimensional e Análise Final.
 
 ## Sprint 7
 [Sprint 7](./Sprint_7)

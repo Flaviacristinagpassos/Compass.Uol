@@ -37,7 +37,7 @@ def execute_s3_select(bucket_name, file_key): # Define a função que recebe o n
     # Método do API S3 que executa o S3 Select pra ler e processar o arquivo csv
     response = s3.select_object_content( 
         Bucket=bucket_name, # Nome do bucket onde onde o arquivo csv ta armazenado
-        Key=file_key, # # Chave do objeto (nome do arquivo CSV) dentro do bucket
+        Key=file_key, # Chave do objeto (nome do arquivo CSV) dentro do bucket
         ExpressionType='SQL', # Define que a expressão é uma consulta SQL
         Expression=query, # A consulta SQL que vai ser executada no arquivo CSV
 ```

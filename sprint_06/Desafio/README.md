@@ -18,14 +18,14 @@ Este desafio acadêmico tem como objetivo a construção de um Data Lake que arm
 
 ## Perguntas de Análise
 Com base na exploração inicial dos dados, as seguintes questões serão respondidas:
-1. **Existe diferença entre a média das notas de séries e filmes de Drama e Romance ao longo dos anos?**
-      - Comparar as notas médias de séries e filmes, segmentando pelos anos de lançamento, para identificar padrões de qualidade ao longo do tempo
+1. **Quantos filmes e séries de Drama e Romance existem?**
+      - Total de títulos classificados como Drama ou Romance
 
-2. **Qual é a relação entre o ano de lançamento e a popularidade (nota média) de filmes e séries de Drama e Romance?**
-      - Analisar se produções mais recentes de Drama e Romance tendem a ser mais bem avaliadas ou se há uma preferência nostálgica por produções mais antigas e clássicas
+2. **Quantos títulos únicos de filmes pertencem aos gêneros Drama e Romance?**
+      - Contar o número de títulos únicos de filmes que pertencem aos gêneros
 
-3. **Quais são as séries e filmes de Drama e Romance com maior discrepância entre o número de votos e a nota média?**
-      - Descobrir quais títulos possuem uma grande base de votos, mas que apresentam uma discrepância significativa, seja para mais ou para menos
+3. **Quantos títulos únicos de séries pertencem aos gêneros Drama e Romance?**
+      - Fornecerá insights sobre a variedade de produções disponíveis nesses gêneros dentro do conjunto de dados de séries
 
 Essas questões guiarão a análise e a construção dos dashboards analíticos na fase final do desafio.
 

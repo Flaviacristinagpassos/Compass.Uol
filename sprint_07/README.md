@@ -41,10 +41,10 @@ A parte 2 da entrega do desafio, ingestão po api, além de exercicios no labora
 
 # Certificados
 Também acabei vendo sobre ML e outros tópicos no curso completo de Spark e outro curso de preparatório também
-[Certificados] (./Certificados)
+[Certificados](./Certificados)
 
 # Evidências
 E a execução de todos os passos estão na pasta evidencias
-[Evidencias] (./Evidencias)
+[Evidencias](./Evidencias)
 
 

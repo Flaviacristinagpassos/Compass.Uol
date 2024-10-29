@@ -164,5 +164,5 @@ Foi adquirido o certificado de Data&Analytics 8, e mias dois cursos pequenos de 
 [Certificados](./Certificados)
 
 # Evidências
-E a execução das etapas dos exercicios estão na pasta evidencias, bem copo, as evidências do Desafio. Por conta dos arquivo nomes_aleatórios.txt ser muito grande, esta em formato de print nas evidências.
+E a execução das etapas dos exercicios estão na pasta evidencias, bem copo, as evidências do Desafio. Por conta dos arquivo nomes_aleatórios.txt ser muito grande e por problemas com o  Git LFS, esta em formato de print nas evidências.
 [Evidencias](./Evidencias)

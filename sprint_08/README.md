@@ -160,9 +160,9 @@ O primeiro exercicio sobre geração e massa de dados demonstrou a capacidade de
 O segundo exercicio com o uso de ApacheSpark demonstrou como utilizar o Apache Spark para manipular e analisar dados de forma eficiente. Através das etapas descritas, foi possível carregar dados, adicionar colunas, realizar filtragens e executar consultas SQL, demonstrando a flexibilidade e poder do Apache Spark na análise de grandes volumes de dados.
 
 # Certificados
-Foi adquirido o certificado de Dta&Analytics 8
+Foi adquirido o certificado de Data&Analytics 8, e mias dois cursos pequenos de EAP e Gestão, em 
 [Certificados](./Certificados)
 
 # Evidências
-E a execução das etapas dos exercicios estão na pasta evidencias
+E a execução das etapas dos exercicios estão na pasta evidencias, bem copo, as evidências do Desafio. Por conta dos arquivo nomes_aleatórios.txt ser muito grande, esta em formato de print nas evidências.
 [Evidencias](./Evidencias)

@@ -18,14 +18,14 @@ Este desafio acadêmico tem como objetivo a construção de um Data Lake que arm
 
 ## Perguntas de Análise
 Com base na exploração inicial dos dados, as seguintes questões serão respondidas:
-1. **Quantos filmes e séries de Drama e Romance existem?**
-      - Total de títulos classificados como Drama ou Romance
+1. **Quantos filmes de Drama e Romance existem?**
+      - Total de filmes classificados como Drama ou Romance
 
-2. **Quantos títulos únicos de filmes pertencem aos gêneros Drama e Romance?**
-      - Contar o número de títulos únicos de filmes que pertencem aos gêneros
+2. **Quantos títulos únicos de filmes pertencem ao gênero Drama?**
+      - Contar o número de títulos únicos de filmes no genêro Drama
 
-3. **Quantos títulos únicos de séries pertencem aos gêneros Drama e Romance?**
-      - Fornecerá insights sobre a variedade de produções disponíveis nesses gêneros dentro do conjunto de dados de séries
+3. **Quantos títulos únicos de filmes pertencem ao gêneros Romance?**
+      - Contar o número de títulos únicos no gênero Romance,
 
 Essas questões guiarão a análise e a construção dos dashboards analíticos na fase final do desafio.
 

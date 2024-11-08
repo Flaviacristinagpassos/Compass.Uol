@@ -50,12 +50,16 @@ Ao decorrer desta Sprint, com ajuda do desafio proposto, que visa praticar tudo 
 
 ## Sprint 7
 [Sprint 7](./Sprint_7)
+Ao decorrer desta Sprint, no desafio foi feito ingestão por api, além de exercicios no laboratório Glue, leitura sobre o hadoop, também pude botar em prática o que foi aprendido no curso de spark no exercicio de contador de palavras com pyspark.
 
 ## Sprint 8
 [Sprint 8](./Sprint_8)
+Ao decorrer desta Sprint tivemos alguns exercicios com Spark. O primeiro exercicio sobre geração e massa de dados demonstrou a capacidade de gerar dados aleatórios, criar e ordenar listas, e compor um dataset significativo utilizando Python. As técnicas utilizadas são essenciais para manipulação de dados e têm aplicações práticas em análise de dados, ciência de dados e desenvolvimento de software. O segundo exercicio com o uso de ApacheSpark demonstrou como utilizar o Apache Spark para manipular e analisar dados de forma eficiente. Através das etapas descritas, foi possível carregar dados, adicionar colunas, realizar filtragens e executar consultas SQL, demonstrando a flexibilidade e poder do Apache Spark na análise de grandes volumes de dados.
+E no desafio foi feito a ingestão e o processamento de dados utilizando o AWS Glue e o Apache Spark, movendo dados da Raw Zone para a Trusted Zone do Data Lake.
 
 ## Sprint 9
 [Sprint 9](./Sprint_9)
+Ao decorrer desta Sprint com o projeto implementado até o momento na Sprint 9, todos os passos necessários para processar e armazenar os dados nas camadas Trusted e Refined foram completados durante o andamento das Sprints. A próxima etapa provavelmente possa envolver a criação da camada Curated, bem como a análise e visualização dos dados. O objetivo dessa Sprint foi fazer a entrega 4, é integrar dados de fontes variadas, processá-los em diferentes camadas e permitir análises analíticas baseadas nesses dados
 
 ## Sprint 10
 [Sprint 10](./Sprint_10)

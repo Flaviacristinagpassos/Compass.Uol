@@ -1,6 +1,6 @@
 ## Na Sprint 7 foi desenvolvido:
 
-A parte 2 da entrega do desafio, ingestão po api, além de exercicios no laboratório Glue, leitura sobre o hadoop, também pude botar em prática o que foi aprendido no curso de spark no exercicio de contador de palavras com pyspark.
+A parte 2 da entrega do desafio, ingestão por api, além de exercicios no laboratório Glue, leitura sobre o hadoop, também pude botar em prática o que foi aprendido no curso de spark no exercicio de contador de palavras com pyspark.
 
 1. **No curso de Spark foram abordados os seguintes tópicos:**
     - DataFrames e RDDS

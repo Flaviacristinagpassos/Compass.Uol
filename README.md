@@ -63,3 +63,5 @@ Ao decorrer desta Sprint com o projeto implementado até o momento na Sprint 9, 
 
 ## Sprint 10
 [Sprint 10](./Sprint_10)
+Nessa Sprint puse aprender sobre o Amazon QuickSight e trabalhar com visualização de dados, onde seria feito a visualização de todos os dados que preparamos anteriormente,tranformando os dados e as informações em gráficos. Além do curso de introdução ao quicksight.
+
